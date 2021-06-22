@@ -56,6 +56,8 @@ public class Folder implements Serializable {
     public void setFiles(List<File> files) {
         this.files = files;
     }
+
+
 }
 
 
